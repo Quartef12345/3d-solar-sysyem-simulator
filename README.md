@@ -63,20 +63,27 @@ python main.py
 
 ## Presets
 
-- **Solar System (Scale)** — realistic scale solar system
-- **Solar System (Reduced)** — scaled-down version for easier viewing
+- **Solar System (Scale)** — Realistic scale solar system
+- **Solar System (Reduced)** — Scaled-down version for easier viewing
 - **Saturn** — Saturn with ring system
 - **3 Body Problem** — Classic infinite 8 system
-- **Empty** — blank canvas to build your own system
+- **Empty** — Blank canvas to build your own system
 
 ---
 
 ## Custom Planet Creation
 
 Use the in-app UI panel to create custom planets with:
+
 - Name, mass and radius
 - Initial position (x, y, z)
 - Initial velocity (x, y, z)
 - Color (R, G, B)
 - Optional texture
 - Emissive toggle (for stars)
+
+---
+
+## About
+
+Built as a side project at 16 years old, alongside school, over the course of 2 months. This project involved learning new physics and programming concepts from scratch — from implementing Newton's law of universal gravitation to managing real-time simulation state in Python.
